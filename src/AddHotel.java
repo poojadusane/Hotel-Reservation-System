@@ -60,7 +60,6 @@ public class AddHotel extends HttpServlet{
         out.println("<fieldset>");
         out.println("</div>");
 		out.println("</div>");
-		out.println("</div>");
 		out.println("</body>");
 		out.println("</html>"); 
 		
